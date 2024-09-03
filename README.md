@@ -2,8 +2,16 @@
 
 
 
-Here are some ideas to get you started:
+This is Himasree
 
+- I like programming in: Python, Typescript
+- I have programmed professionally in: Java, Typescript, Javascript, C++
+- I have done non-trivial amounts of programming in: Ruby, Kotlin, Perl
+- I want to get good in: Go
+
+My most recent professional experience is in architecting B2B SAAS products, working on a CRM platform for India's supply chain.
+
+!--- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -11,5 +19,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...---!
 
