@@ -13,17 +13,16 @@ This is the perfect place to talk about programming and stuff ;)
 - I have done non-trivial amounts of programming in: Ruby, Kotlin, Perl
 - I want to get good in: Go
 
+## Work Experience
 
-My most recent professional experience is in leading and writing code in the CRM domain while solving for efficient and reliable cmmunication between various staekholders of a supplychain. Here : https://www.zotok.ai
+- My most recent professional experience is in leading and writing code in the CRM domain while solving for efficient and reliable cmmunication between various staekholders of a supplychain. Here : https://www.zotok.ai
+- I love working at startups! I have previously worked in early and growth stage startups in the domains of e-commerce and social media. 
 
-## Recent Learning
 
-* **Sep 2024. Ultimate Rust Crash Course**: [The code repo with my exercise solutions](#).
-* **Sep 2024**: I also learnt Next.js fundamentals while doing a take-home exercise for a job interview.
 
 ## Contact
 
-You can get in touch with me: ✉️ pradeep🌀btbytes.com, [Twitter/X](#) or [LinkedIn](#).
+You can get in touch with me: https://www.linkedin.com/in/himasree-mustyala/
 
 ## Education
 
