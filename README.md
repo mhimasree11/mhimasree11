@@ -26,7 +26,7 @@ You can get in touch with me: https://www.linkedin.com/in/himasree-mustyala/
 
 ## Education
 
-I have a Bachelors in Electrical and Electronics Engineering from BITS, Pilani and I am starting my Masters soon in Computer Science remotely at Georgia Tech.(Excited!)
+I have a Bachelors in Electrical and Electronics Engineering from BITS Pilani, and I am starting my Masters soon in Computer Science remotely at Georgia Tech.(Excited!)
 
 
 
