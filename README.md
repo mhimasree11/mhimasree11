@@ -4,7 +4,7 @@
 
 This is Himasree
 
-This is the perfect place to talk about programming and stuff ;)
+This is where I talk about programming and stuff ;)
 
 ## Programming Languages
 
