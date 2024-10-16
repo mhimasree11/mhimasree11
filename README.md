@@ -15,7 +15,7 @@ This is where I talk about programming and stuff ;)
 
 ## Work Experience
 
-- My most recent professional experience is in leading and writing code in the CRM domain while solving for efficient and reliable cmmunication between various staekholders of a supplychain. Here : https://www.zotok.ai
+- My most recent professional experience is in leading and writing code in the CRM domain while solving for efficient and reliable cmmunication between various stakeholders of a supplychain. Here : https://www.zotok.ai
 - I love working at startups! I have previously worked in early and growth stage startups in the domains of e-commerce and social media. 
 
 
@@ -26,7 +26,7 @@ You can get in touch with me: https://www.linkedin.com/in/himasree-mustyala/
 
 ## Education
 
-I have a Bachelors in Electrical and Electronics Engineering from BITS Pilani and I am starting my masters in Computer Science remotely at Georgia Tech.(Excited!)
+I have a Bachelors in Electrical and Electronics Engineering from BITS, Pilani and I am starting my Masters soon in Computer Science remotely at Georgia Tech.(Excited!)
 
 
 
